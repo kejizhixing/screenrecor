@@ -79,7 +79,10 @@ A：默认保存在「视频 / 屏幕录制专家」文件夹，可在「设置�
 
 ---
 相关下载：注意⚠️：此程序是原Python项目的基础上重构版：
+云盘连接：
+光鸭云盘：[https://www.guangyapan.com/s/1957820220055900210_aeYNDxu726g3we82](https://www.guangyapan.com/s/1957820220055900210_aeYNDxu726g3we82)    kjzx
 
+##如下是旧版：
 Python版本下载连接：https://kejizhixing.lanzout.com/b007uct38b   密码:6wr2
 
 
